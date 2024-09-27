@@ -1,3 +1,157 @@
 File Name  |  IDs  |  Animation Name
 ------------------------------------
-co00_00    |  001  |  Idle Character Creation
+co00_00    |  001  |  Idle Character & Idle Character Creation
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gesture
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+co00_03 | 061 | Pose
+co00_03 | 067~069 | Gesture Relax
+co00_03 | 067~068 | Gesture Applaud
+co00_03 | 072~073 | Gesture Stop
+co00_03 | 074~076 | Gesture Sitdown
+co00_03 | 077~079 | Gesture Despair
+co00_03 | 080~082 | Gesture Wave???
+co00_03 | 083~084 | Gesture Nod
+co00_03 | 085 | Gesture Refuse
+co00_03 | 086 | Gesture ???
+co00_03 | 087 | Gesture Point
+co00_03 | 088 | Gesture Greeting
+co00_03 | 089 | Gesture Safe!
+co00_03 | 090 | Gesture You're Out!
+co00_03 | 091~092 | Gesture Call
+co00_03 | 093~094 | Gesture Taunt
+co00_03 | 095 | Gesture ???
+co00_03 | 096 | Gesture Good Work!
+co00_03 | 097~098 | Gesture Pumped Up!
+co00_03 | 099~101 | Gesture Show Off
+co00_03 | 102~105 | Gesture Boast
+co00_03 | 106~107 | Gesture Take a Breather
+co00_03 | 108~109 | Gesture Cheer
+co00_03 | 150 | Walk Motion in Room
+co00_03 | 151 | Run Motion in Room
+co00_03 | 152 | Running Motion in Room 
+co00_03 | 177 | Gesture Bow
+co00_03 | 179~180 | Gesture Cheering
+co00_03 | 181~182| Gesture OMG!
+co00_03 | 183~184 | Gesture Kabuki
+co00_03 | 187~189 | Gesture Hide
+co00_03 | 199 | Gesture Wave ???
+co00_03 | 220 | Slow Walking on Where???
+co00_03 | 221 | Walking on Where???
+co00_03 | 350~352 | Gesture Zen
+co00_03 | 353~356 | Gesture Ninja Star
+co00_03 | 357~359 | Gesture Sumo Slap
+co00_03 | 360~362 | 
+co00_03 | 363~365 | 
+co00_03 | 366~368 | Gesture Relax
+co00_03 | 369~371 | Gesture Genuflect ???
+co00_03 | 372~377 | 
+co00_03 | 378~383 | 
+co00_03 | 384~389 | 
+co00_03 | 390~ | 
+co00_03 | 398~399 | Gallivanting Dance
+co00_03 | 402~403 | Clap
+co00_03 | 404~405 | Regret
+co00_03 | 406~407 | Dance
+co00_03 | 408~409 | Prance
+co00_03 | 411 | SFV Hadoken
+co00_03 | 412 | SFV Shoryuken
+co00_03 | 413 | SFV Idle
+co00_03 | 414~417 | Devil May Cry Dual Guns
+co00_03 | 419~420 | FFXIV Jump
+co00_03 | 423~425 | Squat Day
+co00_03 | 426~429 | Spirit Fingers
+co00_03 | 430~431 | Cool Dance
+co00_03 | 432~433 | Hip Hop Dance
+co00_03 | 434~435 | Pop Star Dance
+co00_03 | 436~437 | Step Dance
+co00_03 | 438~441 | The Witcher 3 Flame Manipulation
+co00_03 | 442~443 | Happy Hunting
+co00_03 | 454-458 | Witcher 3 : Flame Manipulation
+co00_03 | 459~461 | Pledge
+co00_03 | 462~464 | Genuflect ???
+co00_03 | 465 | Flourish
+co00_03 | 466~467 | Give Appraisal -> Cancel
+co00_03 | 468 | Raccoon City: Zombify (First Stage)
+co00_03 | 469 | Raccoon City: un-Zombify
+co00_03 | 470 | Raccoon City: Zombify + Zombie Bite
+co00_03 | 471 | Zombie Bite
+co00_03 | 473 | Raccoon City: Zombify (Walk)
+co00_03 | 474 | Raccoon City: Zombify (Walking)
+co00_03 | 475 | Raccoon City: Zombify (Stop Walk)
+co00_03 | 476 | Raccoon City: Zombify (Run Stage 1)
+co00_03 | 477 | Raccoon City: Zombify (Running)
+co00_03 | 478 | Raccoon City: Zombify (Stop Run)
+co00_03 | 479 | Raccoon City: Zombify (Iddle)
+co00_03 | 480 | Raccoon City: Zombify (Stop Run 2)
+co00_03 | 481~482 | Swag Dance Step
+co00_03 | 483~484 | Swag Power Move
+co00_03 | 485-486 | Swag Dance Freeze
+co00_03 | 487~488 | Clean Dance Step
+co00_03 | 489~490 | Clean Power Move
+co00_03 | 489~491 | Clean Dance Step/Clean Power Move (Stage 2)
+co00_03 | 493 | Hype Up Dance Step
+co00_03 | 494 | Hype Up Clap
+co00_03 | 495 | Swag Dance Entry
+co00_03 | 496 | Clean Dance Entry
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Guild Card Pose
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+co00_03 | 250 | Crossed Arms
+co00_03 | 251 | Crouching
+co00_03 | 252 | Flexing
+co00_03 | 253 | Show Off
+co00_03 | 254 | Cool
+co00_03 | 255 | Cutesy
+co00_03 | 256 | Chic
+co00_03 | 257 | Sitting Down
+co00_03 | 258 | Fist Pump
+co00_03 | 259 | Kicking Back
+co00_03 | 260 | Playing
+co00_03 | 261 | Standout
+co00_03 | 263 | Shoryuken & Hadoken
+co00_03 | 264 | Ebony & Ivory
+co00_03 | 265 | Rise Up
+co00_03 | 266 | Nice Control!
+co00_03 | 267 | Dragon Pose
+co00_03 | 268 | Hildibrand, Agent of Enquiry
+co00_03 | 270 | Becoming the Assasin
+co00_03 | 271 | Splendid Dance
+co00_03 | 272 | Graceful Swim
+co00_03 | 273 | Out to Trick
+co00_03 | 274 | The Purrfect Reveal!
+co00_03 | 275 | Time to Dance!
+co00_03 | 276~277 | The Witcher 3: White Wolf
+co00_03 | 278 | Silent Gaze, Silent Blade
+co00_03 | 279 | Unavailable ???
+co00_03 | 280 | Powerhouse
+co00_03 | 281 | Cute Pose
+co00_03 | 282 | Clever
+co00_03 | 283 | Move Out!
+co00_03 | 284 | The Only Way is Forward
+co00_03 | 285 | Playful
+co00_03 | 286 | Jump in Excitement!
+co00_03 | 287 | Sitting Straight
+co00_03 | 288 | Moment of Peace
+co00_03 | 289 | Best Buds
+co00_03 | 290 | I Can See My Hut From Here
+co00_03 | 291 | Surprise Attack
+co00_03 | 292 | Hand in Hand
+co00_03 | 294 | Clash of Fists
+co00_03 | 295 | Horror
+co00_03 | 296 | Survival
+co00_03 | 297 | Timeless Meeting
+co00_03 | 298 | Reminiscing
+co00_03 | 299 | Attractive Couple
+co00_03 | 444 | ???
+co00_03 | 445 | In the Darkness
+co00_03 | 446 | ???
+co00_03 | 447 | ???
+co00_03 | 448 | ???
+co00_03 | 449 | ???
+co00_03 | 450 | ???
+co00_03 | 451 | ???
+co00_03 | 452 | ???
+co00_03 | 453 | ???
